@@ -2,7 +2,7 @@
 Using proportional control and graph theory to control a swarm of robots to create various formations
 _summer project I did in 2023_
 
-In this repo, you will find a folder for MATLAB simulations and python programs meant to run on the Robomaster SDK. This was an independent summer project under Dr. Hassan Jaleel where we used some elements of graph theory
+In this repo, you will find a folder for MATLAB simulations and python programs meant to run on the Robomaster SDK. This was an independent summer project under [Dr. Hassan Jaleel](https://scholar.google.com/citations?user=T7kqUskAAAAJ&hl=en) where we used some elements of graph theory
 to create a proportional formation control algorithm for multiple robots. 
 
 ## Installation
@@ -22,6 +22,11 @@ pip install robomaster
 ## Setting up the robomaster equipment for these experiments
 We used centralized control to do all these formations. Therefore, all the robots were connected to a central router. Our computer was also connected to the same network.
 Please see the *Networking Connection* section of this [documentation](https://robomaster-dev.readthedocs.io/en/latest/python_sdk/connection.html)
+
+## Credits
+Ibrahim Arif (me): coded iMaSS logo choreography, moving formation control (MATLAB and robomaster)
+Ali Rehman: coded consensus algorithms for robomaster and formation control with collision avoidance MATLAB simulations
+Ibrahim Rana: coded MATLAB simulations for consensus algorithm and formation control
 
 ## Reference
 Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt
