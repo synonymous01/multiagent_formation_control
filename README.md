@@ -24,9 +24,9 @@ We used centralized control to do all these formations. Therefore, all the robot
 Please see the *Networking Connection* section of this [documentation](https://robomaster-dev.readthedocs.io/en/latest/python_sdk/connection.html)
 
 ## Credits
-Ibrahim Arif (me): coded iMaSS logo choreography, moving formation control (MATLAB and robomaster)
-Ali Rehman: coded consensus algorithms for robomaster and formation control with collision avoidance MATLAB simulations
-Ibrahim Rana: coded MATLAB simulations for consensus algorithm and formation control
+Ibrahim Arif (me): coded iMaSS logo choreography, moving formation control (MATLAB and robomaster)  
+Ali Rehman: coded consensus algorithms for robomaster and formation control with collision avoidance MATLAB simulations  
+Ibrahim Rana: coded MATLAB simulations for consensus algorithm and formation control  
 
 ## Reference
 Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt
