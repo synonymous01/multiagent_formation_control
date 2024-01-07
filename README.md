@@ -5,6 +5,8 @@ _summer project I did in 2023_
 In this repo, you will find a folder for MATLAB simulations and python programs meant to run on the Robomaster SDK. This was an independent summer project under [Dr. Hassan Jaleel](https://scholar.google.com/citations?user=T7kqUskAAAAJ&hl=en) where we used some elements of graph theory
 to create a proportional formation control algorithm for multiple robots. 
 
+This exercise went on to become the basis of our research in Distributed Control Theory, source for which you can find [here](https://github.com/synonymous01/multiagent_control).
+
 ## Installation
 
 simple clone the repository:
