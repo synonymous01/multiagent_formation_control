@@ -1,5 +1,5 @@
 # Proportional Formation Control 
-Using proportional control and graph theory to control a swarm of robots to create various formations
+Using proportional control and graph theory to control a swarm of robots to create various formations  
 _summer project I did in 2023_
 
 In this repo, you will find a folder for MATLAB simulations and python programs meant to run on the Robomaster SDK. This was an independent summer project under [Dr. Hassan Jaleel](https://scholar.google.com/citations?user=T7kqUskAAAAJ&hl=en) where we used some elements of graph theory
