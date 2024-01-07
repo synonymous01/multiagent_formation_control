@@ -21,6 +21,8 @@ For running the Robomaster SDK programs, you'll need the python library as a pre
 pip install robomaster
 ```
 
+You will also have to modify the `self.robots_sn` array to the serial numbers associated with your EP Core robots. 
+
 ## Setting up the robomaster equipment for these experiments
 We used centralized control to do all these formations. Therefore, all the robots were connected to a central router. Our computer was also connected to the same network.
 Please see the *Networking Connection* section of this [documentation](https://robomaster-dev.readthedocs.io/en/latest/python_sdk/connection.html)
