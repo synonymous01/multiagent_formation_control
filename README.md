@@ -9,10 +9,10 @@ This exercise went on to become the basis of our research in Distributed Control
 
 ## Video demonstrations
 [multi_formation_control.py](https://github.com/synonymous01/multiagent_formation_control/blob/main/robomaster-programs/multi_formation_control.py): Formations go from: square -> triangle with centroid -> trapezium -> line
-https://github.com/synonymous01/multiagent_formation_control/assets/40025239/1ad48f6c-2efa-4646-b580-2be9840d3e06
+![vid1](https://github.com/synonymous01/multiagent_formation_control/assets/40025239/1ad48f6c-2efa-4646-b580-2be9840d3e06)
 
 [moving_formation.py](https://github.com/synonymous01/multiagent_formation_control/blob/main/robomaster-programs/moving_formation.py): three robots make a triangle whilst moving
-https://github.com/synonymous01/multiagent_formation_control/assets/40025239/b1209d92-55fc-4e8c-87fe-dbed828e8420
+![vid2](https://github.com/synonymous01/multiagent_formation_control/assets/40025239/b1209d92-55fc-4e8c-87fe-dbed828e8420)
 
 ## Installation
 
